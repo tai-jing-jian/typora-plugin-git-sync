@@ -1,8 +1,7 @@
-# Typora 示例插件
+# Typora Plugin Git Sync
 
 这是一个基于 [typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin) 的 [Typora](https://typoraio.cn) 插件。
 
+使用 git 同步本地仓库和远程仓库
 
-## 开发文档
-
-见 [开发文档](https://github.com/typora-community-plugin/typora-community-plugin/blob/main/docs/zh-cn/dev-guide/0-dev-docs.md) 或 [快速开始](https://github.com/typora-community-plugin/typora-community-plugin/blob/main/docs/zh-cn/dev-guide/1-getting-started.md)
+注意：需要在本地环境中安装 git 命令行工具
